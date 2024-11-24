@@ -55,22 +55,6 @@ A comprehensive C++ banking system that provides robust functionality for managi
 - Architecture: Object-Oriented Design
 - File System: Text-based data storage
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Visual Studio 2019 or later
-- C++ compiler supporting C++11 or later
-- Windows operating system
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/bank-management-system.git
-   ```
-2. Open the solution file `MainCode.sln` in Visual Studio
-3. Build the solution
-4. Run the application
-
 ## 📖 Usage
 
 ### Client Operations
